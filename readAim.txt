@@ -1,0 +1,2 @@
+Aim is learning how to use git on his "Aim_test" branch and created his readAim.txt file, and then he would save and close this file by using :wq for save and exit, and then will git add this file before git commit -m "edited readAim.txt" and git merge Aim_test branch to the master.
+
