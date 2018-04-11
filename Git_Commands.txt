@@ -1,0 +1,18 @@
+mingw64 git terminal
+
+// To pull the current master.
+git clone url
+
+// To create a branch.
+git branch name
+git checkout name
+
+// To check current status.
+git status
+
+// To add files.
+git add .
+
+// To send back to github
+git commit -m "comment"
+git push origin branch_name
