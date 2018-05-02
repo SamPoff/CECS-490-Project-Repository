@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1524786661 source:c:\users\sam\desktop\490\cecs-490-project-repository\compiler\sam\compiler\main.cpp
+	<cstdlib>
+	<unistd.h>
+	<iostream>
+	<string>
+	<fstream>
+	<streambuf>
+
